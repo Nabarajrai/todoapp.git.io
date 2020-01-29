@@ -1,0 +1,37 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+
+}
+img{
+    width: 700px;
+    height: 400px;
+    padding: 2rem 15rem;
+}
+#preButton{
+    padding: 1rem 2rem;
+    margin-left: 6rem;
+    border: 2px solid #9a9595;
+    color: white;
+    background-color: #179a9a;
+    border-radius: 6px;
+}
+#nextButton{
+    margin-left: 46rem;
+    padding: 1rem 2rem;
+    border: 2px solid #9a9595;
+    color: white;
+    background-color: #179a9a;
+    border-radius: 6px;
+}
+#preButton:hover{
+    background-color: cadetblue;
+    color: white;
+}
+#nextButton:hover{
+    background-color: cadetblue;
+    color: white;
+}
